@@ -1,0 +1,7 @@
+cn/cslg/modifydata/mapreduce/ModifyArtistReducer.class
+cn/cslg/modifydata/util/ModifyArtistIdJob.class
+cn/cslg/modifydata/mapreduce/ArtistAliasMapper.class
+cn/cslg/modifydata/parser/ArtistAliasParser.class
+cn/cslg/modifydata/parser/UserArtistDataParser.class
+cn/cslg/modifydata/bean/ModifyArtistMapperOutKey.class
+cn/cslg/modifydata/mapreduce/UserArtistDataMapper.class

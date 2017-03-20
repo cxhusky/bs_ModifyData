@@ -1,0 +1,8 @@
+/home/xwtech/workspace/ModifyData/src/main/java/cn/cslg/modifydata/parser/ArtistAliasParser.java
+/home/xwtech/workspace/ModifyData/src/main/java/cn/cslg/modifydata/mapreduce/ArtistAliasMapper.java
+/home/xwtech/workspace/ModifyData/src/main/java/cn/cslg/modifydata/util/ModifyArtistIdJob.java
+/home/xwtech/workspace/ModifyData/src/main/java/cn/cslg/modifydata/mapreduce/UserArtistDataMapper.java
+/home/xwtech/workspace/ModifyData/src/main/java/cn/cslg/modifydata/bean/ModifyArtistMapperOutKey.java
+/home/xwtech/workspace/ModifyData/src/main/java/cn/cslg/modifydata/mapreduce/ModifyArtistReducer.java
+/home/xwtech/workspace/ModifyData/src/main/java/cn/cslg/modifydata/package-info.java
+/home/xwtech/workspace/ModifyData/src/main/java/cn/cslg/modifydata/parser/UserArtistDataParser.java
